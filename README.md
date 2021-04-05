@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-#### Welcome to my profile 👀
 
 I'm a computer science student interesting in AI, Web Development, Domotic and IHC.
 
@@ -16,4 +15,3 @@ I'm a computer science student interesting in AI, Web Development, Domotic and I
 
 <img src="https://github-readme-stats.vercel.app/api?username=kellycastrof&show_icons=true&include_all_commits=true&theme=blueberry&count_private=true&hide=issues,stars" alt="kelly stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kellycastrof&theme=blueberry&count-private=true&layout=compact" alt="programming languages"/>
